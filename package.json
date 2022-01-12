@@ -1,0 +1,27 @@
+{
+  "name": "node.js-autenticacion-microservicios-y-redis",
+  "version": "1.0.0",
+  "description": "Proyecto en el que se hara el backend completo de una red social. Creando microservicios con usuarios, posts, follows e interacciones",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/V11Playko/Node.Js-Autenticacion-Microservicios-y-Redis.git"
+  },
+  "keywords": [
+    "Node.Js",
+    "autenticacion",
+    "microservicios"
+  ],
+  "author": "Heinner Vega <heinnervega20@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/V11Playko/Node.Js-Autenticacion-Microservicios-y-Redis/issues"
+  },
+  "homepage": "https://github.com/V11Playko/Node.Js-Autenticacion-Microservicios-y-Redis#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
