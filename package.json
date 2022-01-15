@@ -4,7 +4,8 @@
   "description": "Proyecto en el que se hara el backend completo de una red social. Creando microservicios con usuarios, posts, follows e interacciones",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon api/index.js"
+    "dev": "nodemon api/index.js",
+    "sql": "nodemon mysql/index.js"
   },
   "repository": {
     "type": "git",
@@ -29,6 +30,7 @@
     "mysql": "^2.18.1",
     "nanoid": "^3.1.32",
     "nodemon": "^2.0.15",
+    "request": "^2.88.2",
     "swagger-ui-express": "^4.3.0"
   }
 }
