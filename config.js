@@ -9,8 +9,8 @@ module.exports = {
     mysql: {
         host: process.env.MYSQL_HOST || '',
         user: process.env.MYSQL_USER || '',
-        password: process.env.MYSQL_PASS || 'fzB2myUtni',
-        database: process.env.MYSQL_DB || 'sql5465668',
+        password: process.env.MYSQL_PASS || '',
+        database: process.env.MYSQL_DB || '',
     },
     mysqlService: {
         port: process.env.MYSQL_SRV_PORT || 3001,
