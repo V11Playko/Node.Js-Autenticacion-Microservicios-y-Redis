@@ -30,6 +30,7 @@
     "mysql": "^2.18.1",
     "nanoid": "^3.1.32",
     "nodemon": "^2.0.15",
+    "redis": "^4.0.2",
     "request": "^2.88.2",
     "swagger-ui-express": "^4.3.0"
   }
